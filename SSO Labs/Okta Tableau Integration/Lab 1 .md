@@ -1,3 +1,9 @@
+# Implementing SSO between Okta and Tableau
+
+Scenario : As an IAM analyst, you're tasked with configuring Single Sign-On (SSO) between Okta and Tableau Cloud for a growing enterprise that uses Tableau for data analytics. The goal is to streamline access for users, improve security, and centralize authentication.
+
+
+
 
 ## First we login to our Okta tentant, Okta will server as our Idp, once logged in we then navigate to applications
 ![image](https://github.com/user-attachments/assets/60890914-765d-4bd0-a797-9e97dce78b52)
