@@ -47,7 +47,8 @@ To do this we copy and paste the metadata link from okta into our web browser, t
 
 Next we need to map attributes, by default the username attribute in okta is our user emails
 
-![image](https://github.com/user-attachments/assets/4d267b4b-b69e-4fb2-907c-1da6ecc011d0)
+![image](https://github.com/user-attachments/assets/bac22fe1-c858-4c7c-a0fb-4c40b02e0c8c)
+
 
 
 Save and head back to okta
